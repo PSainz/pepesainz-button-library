@@ -1,6 +1,7 @@
 {
   "name": "pepesainz-button-library",
   "version": "1.0.0",
+  "private": true,
   "main": "lib/index.js",
   "module": "lib/index.esm.js",
   "types": "lib/index.d.ts",
